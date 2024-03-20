@@ -1,0 +1,13 @@
+
+Wed Mar 20 2024 14:07:40 GMT+0530 (India Standard Time): GET : /api/users
+Wed Mar 20 2024 14:07:46 GMT+0530 (India Standard Time): GET : /users
+Wed Mar 20 2024 14:08:02 GMT+0530 (India Standard Time): GET : /api/users
+Wed Mar 20 2024 14:08:19 GMT+0530 (India Standard Time): POST : /api/users
+Wed Mar 20 2024 14:08:26 GMT+0530 (India Standard Time): PATCH : /api/users
+Wed Mar 20 2024 14:08:44 GMT+0530 (India Standard Time): POST : /api/users
+Wed Mar 20 2024 14:08:49 GMT+0530 (India Standard Time): GET : /api/users
+Wed Mar 20 2024 14:09:04 GMT+0530 (India Standard Time): PATCH : /api/users/65f9776c0145ef2ac9ad6661
+Wed Mar 20 2024 14:09:08 GMT+0530 (India Standard Time): DELETE : /api/users/65f9776c0145ef2ac9ad6661
+Wed Mar 20 2024 14:09:15 GMT+0530 (India Standard Time): GET : /api/users
+Wed Mar 20 2024 14:16:58 GMT+0530 (India Standard Time): GET : /users
+Wed Mar 20 2024 14:17:05 GMT+0530 (India Standard Time): GET : /api/users
